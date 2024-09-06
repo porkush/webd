@@ -2,3 +2,19 @@
     color: blueviolet;
     font-size: "40px";
 }
+.lorem{
+    font-size:30px;
+    line-height: 20px;
+    letter-spacing:2px;
+    background-color: 20px;
+}
+
+/* box model- padding is always inside the box like gloves or shoes have padding*/
+.box{
+    height: 200px;
+    width: auto;
+    border: 2px solid blueviolet;
+    background-color: azure;
+    padding:20px;
+    margin:200px;
+}

@@ -1,0 +1,15 @@
+.container div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+.container{
+    display: flex;
+    justify-content: start;
+    /* align-items: center; */
+    align-items: start;
+    height: 1000px;
+    background-color: orange;
+    gap: 40px;
+    flex-direction: column;
+}
